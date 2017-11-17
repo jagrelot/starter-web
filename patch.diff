@@ -1,0 +1,96 @@
+From bdaed85a1abe7632006201f4473c780a6c444724 Mon Sep 17 00:00:00 2001
+From: jagrelot <jagrelot@acumensolutions.com>
+Date: Fri, 17 Nov 2017 13:27:19 -0500
+Subject: [PATCH] Commit
+
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 35bcc74..a8727e4 100644
+--- a/README.md
++++ b/README.md
+@@ -1,8 +1,8 @@
+-hwerlwerqsddfasdfasdfsdfasdf
++More Text
+ 
+ # Starter Web Repo
+ 
+-This repository is for showing how Git and GitHub !!!!!!!!!!!!
++This repository is for showing how Git and GitHub work
+ 
+ ## Purpose
+ 
+-- 
+2.12.0.windows.1
+
+From 6dd4bb1cdd68efe42fcca9a1ea790d5911ef96d2 Mon Sep 17 00:00:00 2001
+From: jagrelot <jagrelot@acumensolutions.com>
+Date: Fri, 17 Nov 2017 12:51:22 -0500
+Subject: [PATCH] Update
+
+---
+ README.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/README.md b/README.md
+index 100bc64..35bcc74 100644
+--- a/README.md
++++ b/README.md
+@@ -1,8 +1,8 @@
+-More Text
++hwerlwerqsddfasdfasdfsdfasdf
+ 
+ # Starter Web Repo
+ 
+-This repository is for showing how Git and GitHub work
++This repository is for showing how Git and GitHub !!!!!!!!!!!!
+ 
+ ## Purpose
+ 
+@@ -22,4 +22,4 @@ server or local file system.
+ asdfasdfaasdfasd
+ asdjfasjdfaosjdpoias
+ asdifapsiodfjaosif
+-CHANGE!!!!>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+\ No newline at end of file
++CHANGE!!!!>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-- 
+2.12.0.windows.1
+
+From 36eefecfde2d904cb6fedc44d5317be51e6780dc Mon Sep 17 00:00:00 2001
+From: jagrelot <jagrelot@acumensolutions.com>
+Date: Fri, 17 Nov 2017 12:50:07 -0500
+Subject: [PATCH] Revert "Update"
+
+This reverts commit b7754f9f2e79010901e7d5c47169487cab1eae0e.
+---
+ README.md | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/README.md b/README.md
+index c05993b..100bc64 100644
+--- a/README.md
++++ b/README.md
+@@ -1,8 +1,8 @@
+-HELLLLOOOOOOOOO
++More Text
+ 
+ # Starter Web Repo
+ 
+-This repository is for showing how Git and GitHub work !!!!!!!!!!
++This repository is for showing how Git and GitHub work
+ 
+ ## Purpose
+ 
+@@ -22,4 +22,4 @@ server or local file system.
+ asdfasdfaasdfasd
+ asdjfasjdfaosjdpoias
+ asdifapsiodfjaosif
+-CHANGE!!!!>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
++CHANGE!!!!>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+\ No newline at end of file
+-- 
+2.12.0.windows.1
+
